@@ -1,0 +1,17 @@
+'''
+Sample Testcase :
+INPUT
+guvi
+geeks
+OUTPUT
+guvigeek
+'''
+ui = input().split()
+l0 = len(ui[0])
+l1 = len(ui[1])
+if l1 > l0:
+    print(ui[0]+ui[1][:l0])
+elif l1 < l0:
+    print(ui[0][:l1]+ui[1])
+else:
+    print(ui[0]+ui[1])
