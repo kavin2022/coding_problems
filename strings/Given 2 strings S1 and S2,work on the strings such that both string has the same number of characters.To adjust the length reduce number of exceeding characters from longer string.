@@ -7,4 +7,3 @@ elif l1 < l0:
     print(ui[0][:l1]+ui[1])
 else:
     print(ui[0]+ui[1])
-
