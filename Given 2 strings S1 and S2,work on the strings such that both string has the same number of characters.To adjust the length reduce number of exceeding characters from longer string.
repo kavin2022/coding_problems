@@ -1,11 +1,3 @@
-'''
-Sample Testcase :
-INPUT
-guvi
-geeks
-OUTPUT
-guvigeek
-'''
 ui = input().split()
 l0 = len(ui[0])
 l1 = len(ui[1])
