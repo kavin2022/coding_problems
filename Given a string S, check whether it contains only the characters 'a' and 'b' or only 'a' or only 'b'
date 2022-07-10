@@ -6,5 +6,6 @@ if len(S) <=100000:
         else:
             count = 1
             break
-
+            
 print('yes') if count == 0 else print('no')
+
