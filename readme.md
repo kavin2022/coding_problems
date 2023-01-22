@@ -1,1 +1,1 @@
-this repository contains python problems and its solution
+this repository contains python problems and its solutions.
